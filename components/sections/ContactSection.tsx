@@ -60,10 +60,10 @@ export function ContactSection() {
         </span>
         <div className="mt-3 mb-6">
           <a
-            href="mailto:hej@pitiaiti.pl"
+            href="mailto:pitiaiti.studio@outlook.com"
             className="text-white text-2xl font-light hover:text-white/70 transition-colors"
           >
-            hej@pitiaiti.pl
+            pitiaiti.studio@outlook.com
           </a>
         </div>
         <div className="flex flex-wrap gap-2">

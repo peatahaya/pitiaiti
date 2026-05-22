@@ -21,7 +21,6 @@ export function HeroCTAs({ isReady }: Props) {
       }}
     >
       <GlassButton>Zobacz realizacje</GlassButton>
-      <GhostButton>Przeczytaj manifest</GhostButton>
     </motion.div>
   );
 }
